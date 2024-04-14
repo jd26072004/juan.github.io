@@ -1,0 +1,48 @@
+body{
+    background-image: url("https://cdn.nba.com/manage/2020/08/hall-of-fame-logo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.card-player{
+    background-color: lightblue;
+    height: 70vh;
+    margin: 40px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.player-name{
+    font-size: 40px;
+    margin: auto;
+}
+
+.player-image img{
+    margin-top: 1vh;
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    margin-bottom: 1.5vh;
+}
+
+.player-description{
+    margin: 10px 15px;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

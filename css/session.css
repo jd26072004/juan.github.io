@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+#form-login{
+    padding: 0px;
+    margin: auto;
+    margin-top: 15vh;
+    background-color: lightblue;
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 20vw;
+    height: 36vh;
+    flex-wrap: wrap;
+}
+
+#title-form{
+    font-size: 30px;
+    padding: 0;
+}
+
+#title-form hr{
+    margin-top: 0;
+}
+
+#form-inputs{
+    padding: 10px;
+}
+
+#button-form input{
+    font-size: 20px;
+}
+
+#sign-up-redirect{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+#form-sign-up{
+    padding: 0px;
+    margin: auto;
+    margin-top: 15vh;
+    background-color: lightblue;
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 20vw;
+    height: 49vh;
+    flex-wrap: wrap;
+}
